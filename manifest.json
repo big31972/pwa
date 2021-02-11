@@ -9,7 +9,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "./index.html",
+    "start_url": "https://big31972.github.io/pwa4/",
     "display": "fullscreen",
     "theme_color": "#dff0d8",
     "background_color": "#dff0d8"
